@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Scruffing VR</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Scruffing VR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about-scruffing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about-scruffing/</guid>
+      <description>About Scruffing Scruffing describes the method of cats picking kittens up by the neck to carry them around. I used this and also the little yellow guy from google maps to device a new method of locomotion for Virtual Reality. In this method the player can pick up a miniature version of themself and move it around in a miniature environment, which then translates to movement of themselves in the real environment.</description>
+    </item>
+    <item>
+      <title>Improvements and Future Work</title>
+      <link>http://localhost:1313/improvements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/improvements/</guid>
+      <description>Scalable Map A solution to the short range accuracy problem would be to allow the map to scale, either by player input directly or indirectly. This could be done by injecting certain hand grab interactions to the base of the map or by having the scale change dynamically by for example the height of the miniplayer above the map. This would entail further adjustments, as the scaled minimap may take up the entire field of view afterwards, requiring the map to be centered on the miniplayer and for it to be a cut-out version of the original scale.</description>
+    </item>
+    <item>
+      <title>Process</title>
+      <link>http://localhost:1313/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/process/</guid>
+      <description>The Process behind Scruffing Initially just a simple concept, the way it is implemented posed many questions and demanded a lot of design decisions, regarding the interaction between the player and itself. For example, where should the minimap be placed or mounted? Will it be full scale? What should be the scale? Will in the interaction in the minimap be limited to the player? And how can it be made suitable for any kind of distances?</description>
+    </item>
+    <item>
+      <title>Result</title>
+      <link>http://localhost:1313/result/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/result/</guid>
+      <description>The result is a functional yet imperfect prototype, that offers a glimpse into the potential of this locomotion-technique. It is possible to complete the entire parcour with this technique, however it is very imprecise for short distances, required to clear some of the tasks, particularly reaching and executing the manipulation tasks. If it is the only locomotion technique used, then it is advised to have at least a roomscale-setup to be able to walk the last meter.</description>
+    </item>
+  </channel>
+</rss>

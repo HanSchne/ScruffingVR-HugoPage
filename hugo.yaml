@@ -1,0 +1,23 @@
+baseURL: https://ScruffingVR.org/
+languageCode: en-us
+title: Scruffing VR
+theme: ["PaperMod"]
+
+menu:
+  main:
+    - identifier: About
+      name: About
+      url: /about-scruffing/
+      weight: 10
+    - identifier: Process
+      name: Process
+      url: /process/
+      weight: 20
+    - identifier: Result
+      name: Result
+      url: /result/
+      weight: 30
+    - identifier: Improvements
+      name: Improvements
+      url: /improvements/
+      weight: 40
