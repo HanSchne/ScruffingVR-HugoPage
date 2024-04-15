@@ -7,9 +7,9 @@ The result is a functional yet imperfect prototype, that offers a glimpse into t
 For long ranges however, this style of movement really shines, as the entire map can be transversed in less than a second with a relatively high degree of precision, being able to circumvent almost any obstacle, as long as a point is visible on the minimap!
 
 ## Demo
-{{< youtube id=“cC1zXhqh_8g” >}}
+{{< youtube id=“2d8QqAI7JnE” >}}
 
-If the embedded video is not working it can be found here on [YouTube](https://youtu.be/cC1zXhqh_8g).
+If the embedded video is not working it can be found here on [YouTube](https://youtu.be/2d8QqAI7JnE).
 
 [The application can also be downloaded from my cloud.](https://1drv.ms/u/s!Au2JnrK0JCCTm60nkZ5vsc8pScGGeA?e=Hai7t1)
 
